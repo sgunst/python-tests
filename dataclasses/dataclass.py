@@ -27,3 +27,4 @@ if __name__ == "__main__":
     print(a.__dict__)
     print(asdict(a))
     print(a.__dict__)
+    print("hastalavista")
